@@ -1,11 +1,18 @@
 .tela {
-    background-color: aquamarine;
+    margin: 40px;
     width: 1440px;
     height: 1024px;
     text-align: center;
+    
 
     
 }
+
+img{
+    height: 500px;
+    width: 400px;
+}
+    
 
 .Filho1 {
 
@@ -21,4 +28,6 @@ background-color: aquamarine;
 
 }
 
-
+body{
+    background-color: aquamarine;
+}
